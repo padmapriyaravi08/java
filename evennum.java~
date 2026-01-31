@@ -1,0 +1,12 @@
+import java.util.scanner();
+public class evennum{
+  public static void main(string args[]){
+    scanner sc=new scanner(system.in);
+    system.out.println(("Enter Number:");
+                       int Number=sc.nextInt();
+                       for (int i=2;i<=100;i++){
+                         system.out.println(i);
+                       }
+                       }
+                      }
+                       
